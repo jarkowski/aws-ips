@@ -2,8 +2,12 @@ aca-livecards-service-eu.amazon.com
 eu.prism.digital.amazon.dev
 prism.digital.amazon.dev
 amazon.dev
+amazon.co.uk
+amazon.eu
+prime.amazon.eu
 ftvr-eu.amazon.com
 time.aws.com
 amazonvideo.com
 netflix.com
 firetvcaptiveportal.com
+msh.amazon.com
