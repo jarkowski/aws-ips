@@ -6,3 +6,4 @@ ftvr-eu.amazon.com
 time.aws.com
 amazonvideo.com
 netflix.com
+firetvcaptiveportal.com
