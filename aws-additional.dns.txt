@@ -12,3 +12,4 @@ netflix.com
 firetvcaptiveportal.com
 fireoscaptiveportal.com
 msh.amazon.com
+msh.amazon.co.uk
