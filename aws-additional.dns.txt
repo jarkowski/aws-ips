@@ -10,4 +10,5 @@ time.aws.com
 amazonvideo.com
 netflix.com
 firetvcaptiveportal.com
+fireoscaptiveportal.com
 msh.amazon.com
