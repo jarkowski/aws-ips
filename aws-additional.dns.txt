@@ -3,3 +3,5 @@ eu.prism.digital.amazon.dev
 prism.digital.amazon.dev
 amazon.dev
 ftvr-eu.amazon.com
+time.aws.com
+amazonvideo.com
