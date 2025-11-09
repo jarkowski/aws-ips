@@ -5,3 +5,4 @@ amazon.dev
 ftvr-eu.amazon.com
 time.aws.com
 amazonvideo.com
+netflix.com
